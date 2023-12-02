@@ -17,16 +17,16 @@ This is a simple web application that serves as a basic calculator. The applicat
 3. **app.js**
    - The core functionality of the calculator is implemented in this JavaScript file. It handles user input, performs calculations, and updates the display accordingly.
 
-## Preview 🔥:
-
-https://deepbhakare.github.io/OIBSIP-Calculator/
-
 ## Features:
 
 - Addition.
 - Subtraction
 - Multiplication
 - Division
+
+## Preview 🔥:
+
+https://deepbhakare.github.io/OIBSIP-Calculator/
 
 ## Contribution:
 
