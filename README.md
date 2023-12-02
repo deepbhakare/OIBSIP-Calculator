@@ -24,7 +24,7 @@ This is a simple web application that serves as a basic calculator. The applicat
 - Multiplication
 - Division
 
-## Preview 🔥:
+## Preview 🔥
 
 https://deepbhakare.github.io/OIBSIP-Calculator/
 
